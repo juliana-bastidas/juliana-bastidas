@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliana Bastidas</h1>
-<h3 align="center">A passionate backend developer from Colombia 🇨🇴</h3>
+<h3 align="center">A passionate backend developer from Colombia :🇨🇴lombia: </h3>
 
 - 🌱 I’m currently learning **SQL, Big Data.**
 
